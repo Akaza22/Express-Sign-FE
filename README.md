@@ -1,6 +1,6 @@
 ### INI ADALAH APLIKASI PENDETEKSI BAHASA ISYARAT & EKSPRESI
-Capstone Project Tim Bangkit Academy 2024 Batch 1 C241-PS128
-Demo App : https://express-sign-fe.vercel.app
+<p>Capstone Project Tim Bangkit Academy 2024 Batch 1 C241-PS128 </p>
+<p>Demo App : https://express-sign-fe.vercel.app</p>
 
 ### SCREENSHOT APLIKASI
 # Halaman Login : 
