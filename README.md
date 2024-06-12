@@ -13,7 +13,7 @@ Demo App : https://express-sign-fe.vercel.app
 ![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/bba94b88-bc06-4cb1-be02-30c7239a47ad)
 
 ### TECH STACK :
-<div align="center">
+<div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
