@@ -4,7 +4,7 @@
 
 ### SCREENSHOT APLIKASI
 # Halaman Login : 
-![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/ea7a976a-3ce9-4111-8854-fad09e22ac2a)
+![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/8e1088ee-08a5-484e-974e-b5a263a008a6)
 
 # Halaman Utama : 
 ![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/363acaad-9cab-45b9-8ef4-4a2f1509e954)
