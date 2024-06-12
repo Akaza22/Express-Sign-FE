@@ -7,7 +7,7 @@ Demo App : https://express-sign-fe.vercel.app
 ![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/ea7a976a-3ce9-4111-8854-fad09e22ac2a)
 
 # Halaman Utama : 
-![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/dd8e7bd1-3161-4d12-9471-a83be00863e0)
+![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/363acaad-9cab-45b9-8ef4-4a2f1509e954)
 
 # Halaman History : 
 ![image](https://github.com/Akaza22/Express-Sign-FE/assets/95345862/bba94b88-bc06-4cb1-be02-30c7239a47ad)
