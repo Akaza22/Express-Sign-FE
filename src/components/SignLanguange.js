@@ -27,7 +27,7 @@ const SignLanguange = () => {
       formData.append('image', selectedFile);
 
       const token = await currentUser.getIdToken(); 
-      const response = await axios.post('https://express-app-4s7pae4xgq-et.a.run.app/api/detect-sign-language', formData, {
+      const response = await axios.post(process.env.REACT_APP_API_SIGN, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
           'Authorization': `Bearer ${token}` 
